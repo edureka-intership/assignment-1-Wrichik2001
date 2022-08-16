@@ -1,0 +1,260 @@
+.top{
+    position:absolute;
+    width: 300%;
+    height: 80px;
+    background-color: red;
+    opacity: 1;
+}
+
+.circle{
+    position: absolute;
+    border-radius: 52px;
+    left: 102px;
+    top: 15px;
+    width: 52px;
+    height: 52px;
+    background-color: white;
+    color: red;
+    opacity: 1;
+}
+
+.text{
+    text-align:center;
+    font-size: 35px;
+    color: red;
+    opacity: 1;
+}
+
+.rec{
+    position:absolute;
+    top: 17px;
+    left: 1084px;
+    width: 175px;
+    height: 46px;
+    border: 1px solid white;
+    border-width: 2px;
+    opacity: 1;
+}
+
+
+.login{
+    position:absolute;
+    top: 29px;
+    left: 1015px;
+    right: 30px;
+    width: 43px;
+    height: 23px;
+    text-align: left;
+    font-size: 16px ;
+    color: white;
+    opacity: 1;
+}
+.acc{
+    position:relative;
+    top: 10px;
+    width: 152px;
+    height: 23px;
+    text-align: center;
+    color: white;
+    opacity: 1;
+}
+
+
+.heading {
+    position: absolute;
+    top: 117px;
+    left: 113px;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1.53;
+    text-align: left;
+    color: darkblue;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+.leftbox{
+    display: inline-block;
+    width: 30%;
+}
+
+.filter-options{
+    padding-left: 20px;
+    position: absolute;
+    top: 195px;
+    left: 113px;
+    width: 260px;
+    height: 682px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px black;
+    opacity: 1;
+    
+}
+
+.filter-heading{
+    top: 212px;
+    left: 139px;
+    width: 55px;
+    height: 25px;
+    text-align: left;
+    font-size:  18px ;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+
+.Select-Location {
+    top: 247px;
+    left: 140px;
+    width: 120px;
+    height: 20px;
+    text-align: left;
+    font-size: 18px ;
+    color: darkblue;
+    opacity: 1;
+}
+   
+.Cuisine {
+    top: 335px;
+    left: 140px;
+    width: 100px;
+    height: 20px;
+    text-align: left;
+    font-size:  18px;
+    color: darkblue;
+    opacity: 1;
+}
+
+.checkbox-items {
+    top: 370px;
+    left: 140px;
+    width: 18px;
+    height: 18px;
+    border-radius: 2px;
+    opacity: 1;
+}
+
+.rightbox{
+    display: inline-block;
+    width: 70%;
+}
+
+
+.Item1, .Item2{
+    position: absolute;
+    width: 794px;
+    height: 291px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 1px 3px 6px black;
+    opacity: 1;
+}
+.Item1{
+    left: 400px;
+    top: 195px;
+}
+.pic1{
+    display: inline-block;
+    width: 28%;
+
+}
+
+.info{
+    display: inline-block;
+    width: 68%;
+}
+
+.img {
+    width: 120px;
+    height: 120px;
+    border-radius: 35px;
+    margin-left: 25%;
+}
+
+.rest-name {
+    position: absolute;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.53;
+    text-align: left;
+    color: darkblue;
+    top: 15px;
+    left: 196px;
+    width: 303px;
+    height: 43px;
+    text-align: left;
+}
+
+.rest-location {
+    position: absolute;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.88;
+    text-align: left;
+    color: darkblue;
+    top: 60px;
+    left: 201px;
+    width: 40px;
+    height: 23px;
+}
+
+.rest-address {
+    position: absolute;
+    font-size: 16px;
+    line-height: 1.88;
+    text-align: left;
+    color: grey;
+    top: 90px;
+    left: 201px;
+    width: 370px;
+    height: 23px;
+}
+
+.margin-left {
+    margin-left: 7%;
+    display: inline-flex;
+}
+
+.Bakery1{
+    display: inline-block;
+    top: 397px;
+    width: 140px;
+    height: 118px;
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: grey;
+    opacity: 1;
+}
+
+.Bakery2{
+    display:inline-block ;
+    top: 722px;
+    width: 251px;
+    height: 69px;
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: darkblue;
+    opacity: 1;
+}
+
+.pagination{
+    display: inline-block;
+    margin-top: 25px;
+    width: 380px;
+    margin-left: 50px;
+}
+
+
+.pagination a {
+    position:relative;
+    top: 300px;
+    left: 20%;
+    color: gray;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: solid 1px gray;
+    border-radius: 15px;
+    margin: 2px;
+}
